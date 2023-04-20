@@ -1,0 +1,1 @@
+from .sec1 import name_to_digit
